@@ -22,7 +22,7 @@ export default {
         'que': "url('Vector.png')",
         'box':"url(Frame.png)",
         'left':"url('Component1.png')",
-        'right':"url('component2.png')",
+        'right':"url('Component2.png')",
         'rect':"url(Rectangle.png)"
       },
       spacing:{
