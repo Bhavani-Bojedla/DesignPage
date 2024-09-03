@@ -3,7 +3,7 @@ import React from 'react'
 export default function About() {
     
       return (
-        <div className="mt-4 ml-2 w-92 text-lg text-neutral-400">
+        <div className="ml-2 lg:mt-4 2560:mt-7 lg:w-92 2560:w-100 2560:text-2xl lg:text-lg text-neutral-400">
           <p>
             Hello! I'm Dave, your sales rep here from Salesforce. I've been working at this awesome company for 3 years now.
           </p>
