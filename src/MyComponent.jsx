@@ -35,7 +35,7 @@ export default function MyComponent() {
 
           <Divider />
 
-          <section className="flex 2560:pl-7 lg:pl-5 pt-4 2560:w-110 lg:w-100  h-auto pb-10 shadow-[6px_6px_4px_rgba(0,0,0,0.4)] rounded-2xl bg-side-1">
+          <section className="flex 2560:pl-7 lg:pl-5 pt-4  2560:w-110 lg:w-100  h-auto pb-10 shadow-[6px_6px_4px_rgba(0,0,0,0.4)] rounded-2xl bg-side-1">
             <SideIcon />
             <div className="flex flex-col 2560:ml-10 lg:ml-5">
               <div className="flex items-center text-gray-400 2560:gap-x-72 lg:justify-between 2560:w-100 lg:w-98 h-14 rounded-3xl">
